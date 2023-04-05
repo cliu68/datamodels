@@ -6,3 +6,4 @@
 * IBM information management system: ims.md
 * orientdb: orientdb.md
 * postgreSQL: postgreSQL.md
+* amazonRDS: amazonRDS.md
