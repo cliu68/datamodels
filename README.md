@@ -7,4 +7,4 @@
 * orientdb: orientdb.md
 * postgreSQL: postgreSQL.md
 * amazonRDS: amazonRDS.md
-* Neo4j: Neo4j.md
+* Neo4j: neo4j_extracredit.md
