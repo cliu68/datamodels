@@ -1,2 +1,0 @@
-This database product is called neo4j and more information about it can be found on https://neo4j.com. It is an open-source tool which has a multi-database model. It allows us to to manage and operate different databases with a single installation of Neo4j. The graph database can be used as an embedded database. In order for Java or python to access it, one has to Install Neo4j Desktop and configure the database
-make queries, and run graph algorithms.
